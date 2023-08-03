@@ -1,0 +1,71 @@
+body {
+    font-size: 15pt;
+    background-color: lightgray
+}
+column {
+  float: left;
+  width: 50%;
+}
+
+root{
+color: #8e4#8e44ad;
+}
+
+.{
+  margin: 0; padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%
+}
+
+video{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+
+img{
+  background-color: #8A634B;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+video{
+  background-color: #8A634B;
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+h1{
+  
+  padding: 200;
+  position: center;
+  background-color: red
+
+}
+p1{
+  font-style: italic
+}
+
+.btn {
+  background-color: orangered;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: Red;
+}
